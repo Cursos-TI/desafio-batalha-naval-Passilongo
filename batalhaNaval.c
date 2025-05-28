@@ -26,6 +26,15 @@ int main() {
         {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
     };
 
+    // atribuindo valores no tabuleiro
+
+    tabuleiro [2][3] = 3;
+    tabuleiro [3][3] = 3;
+    tabuleiro [4][3] = 3;
+
+    tabuleiro [7][6] = 3;
+    tabuleiro [7][7] = 3;
+    tabuleiro [7][8] = 3;
 
     printf("***** TABULEIRO BATALHA NAVAL ***** \n\n");
     printf("  ");
